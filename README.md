@@ -1,1 +1,3 @@
-# bvnesonov_dev_course
+# Release notes
+
+Initiation love spectre
